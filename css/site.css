@@ -62,6 +62,13 @@ footer {
     background: var(--kls-darker-color);
 }
 
+@media (max-width: 999px) {
+    #mainNav {
+        padding: 0;
+    }
+}
+
+
 #mainNav button {
     border-color: var(--kls-highlight-color);
 }
