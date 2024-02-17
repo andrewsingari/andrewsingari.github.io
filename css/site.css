@@ -429,10 +429,6 @@ section {
         background-color: var(--kls-light-color);
     }
 
-    .mainHeader>.mainHeader-content {
-        backdrop-filter: blur(2px) hue-rotate(0deg) brightness(70%) contrast(100%);
-    }
-
     /* @supports not (backdrop-filter: blur(2px)) {
         .mainHeader > .mainHeader-content
             background-color: ;
