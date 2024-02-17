@@ -301,7 +301,8 @@
         <section id="Contact" class="section-page">
             <h1>Let's Chat -</h1>
             <div class="p-2">
-                <form method='POST' name='portfolioContact'><input type='hidden' name='form-name' value='portfolioContact' />
+                <form method="POST" action="https://formspree.io/f/mleqbpgq" name="portfolioContact">
+                    <input type='hidden' name='form-name' value='portfolioContact' />
                     <div class="row g-2">
                         <div class="col col-12 col-md-6">
                             <label class="form-label" for="firstname">
@@ -336,18 +337,18 @@
                         <div class="col col-12 col-md-12">
                             <label class="form-label" for="message">
                                 Message</label>
-                            <textarea class="form-control" name="message" type="text" id="message" placeholder="Message"
-                                ariea-label="message" rows="4" required></textarea>
+                            <textarea class="form-control" name="message" id="message" placeholder="Message"
+                                aria-label="Message" rows="4" required></textarea>
                         </div>
                         <div class="col col-12 col-md-12 pt-2 text-end">
-                            <button ty="submit" class="btn btn-primary">
+                            <button type="submit" class="btn btn-primary">
                                 Submit
                             </button>
                         </div>
                     </div>
                 </form>
             </div>
-        </section>
+        </section>        
     </main>
 
 
