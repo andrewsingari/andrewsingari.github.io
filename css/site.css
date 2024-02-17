@@ -342,7 +342,7 @@ section {
 @media (min-width: 576px) {
     .mainHeader {
         height: 200px;
-        background-image: url(img/767.png);
+        background-image: url(/img/767.png);
         background-repeat: no-repeat;
         background-position: left top;
         background-color: var(--kls-light-color);
@@ -366,7 +366,7 @@ section {
 @media (min-width: 768px) {
     .mainHeader {
         height: 300px;
-        background-image: url(img/992.png);
+        background-image: url(/img/992.png);
         background-repeat: no-repeat;
         background-position: left top;
         background-color: var(--kls-light-color);
@@ -423,7 +423,7 @@ section {
 @media (min-width: 1200px) {
     .mainHeader {
         height: 500px;
-        background-image: url(img/2560.png);
+        background-image: url(/img/2560.png);
         background-repeat: no-repeat;
         background-position: left top;
         background-color: var(--kls-light-color);
