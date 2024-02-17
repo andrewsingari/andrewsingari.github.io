@@ -119,7 +119,7 @@ h1,
 }
 
 .btn-primary {
-    color: white !important;
+    color: black !important;
     background-color: var(--kls-secondary-color) !important;
     border-color: var(--kls-secondary-color) !important;
     border-width: 2px;
