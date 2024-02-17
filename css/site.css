@@ -241,6 +241,12 @@ h1,
     padding-left: 1rem;
 }
 
+@media (max-width: 1000px) {
+    .mainHeader-wrapper {
+        margin-top: 62px;
+    }
+}
+
 .mainTitle {
     font-family: var(--kls-title-font);
     font-size: 3rem;
