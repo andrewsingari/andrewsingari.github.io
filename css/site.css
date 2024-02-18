@@ -251,7 +251,7 @@ h1,
     font-family: var(--kls-title-font);
     font-size: 3rem;
     line-height: 2.2rem;
-    color: var(--kls-light-color);
+    color: black;
 }
 
 .mainLogo {
