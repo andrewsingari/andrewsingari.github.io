@@ -123,6 +123,13 @@ span.name {
     color: #ffffff;
 }
 
+@media (max-width: 768px) {
+    span.name {
+        transform: translateY(25px); 
+    }
+}
+
+
 /* Rest of your CSS styles */
 
 
