@@ -260,8 +260,9 @@ h1,
 
 .subTitle {
     font-family: var(--kls-subtitle-font);
-    font-size: .6rem;
-    line-height: 1rem;
+    font-size: 1.2rem;
+    line-height: 1.2rem;
+    margin-left: 22px;
     font-weight: 300;
     color: black;
     letter-spacing: .09rem;
