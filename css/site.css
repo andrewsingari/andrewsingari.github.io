@@ -276,13 +276,14 @@ h1,
 @media (max-width: 1000px) {
     .mainHeader-wrapper {
         margin-top: 62px;
+        margin-left: -30px;
     }
 }
 
 .mainTitle {
     font-family: var(--kls-title-font);
     font-size: 3rem;
-    line-height: 2.2rem;
+    line-height: 3.2rem;
     color: black;
 }
 
@@ -298,6 +299,7 @@ h1,
     font-weight: 300;
     color: black;
     letter-spacing: .09rem;
+    margin-left: 1px;
 }
 
 /*END HEADER STYLES*/
@@ -411,7 +413,7 @@ section {
 
     .mainTitle {
         font-size: 5.5rem;
-        line-height: 3.5rem;
+        line-height: 4.5rem;
     }
 
     .subTitle {
@@ -453,6 +455,7 @@ section {
         font-weight: 300;
         letter-spacing: .2rem;
         margin-top: .2rem;
+        margin-left: -10px;
     }
 }
 
