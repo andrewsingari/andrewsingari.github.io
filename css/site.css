@@ -74,6 +74,19 @@ footer {
     border-color: var(--kls-highlight-color);
 }
 
+@media (min-width: 375px) {
+    #mainNav button {
+        margin-left: 308px;
+    }
+}
+
+@media (min-width: 425px) {
+    #mainNav button {
+        margin-left: 360px;
+    }
+}
+
+
 @media (min-width: 576px) {
     #mainNav button {
         margin-left: 500px;
