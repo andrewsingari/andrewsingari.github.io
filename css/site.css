@@ -276,7 +276,9 @@ h1,
 @media (max-width: 1000px) {
     .mainHeader-wrapper {
         margin-top: 62px;
-        margin-left: -30px;
+        margin-left: -35px;
+        text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.8); /* Black shadow for contrast */
+        color: var(--kls-light-color);
     }
 }
 
