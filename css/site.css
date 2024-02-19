@@ -283,7 +283,6 @@ h1,
 }
 
 .mainTitle {
-    font-family: var(--kls-title-font);
     font-size: 3rem;
     line-height: 3.2rem;
     color: white;
@@ -392,6 +391,7 @@ section {
     .mainTitle {
         font-size: 3rem;
         line-height: 2.5rem;
+        color: white;
     }
 
     .subTitle {
@@ -416,6 +416,7 @@ section {
     .mainTitle {
         font-size: 5.5rem;
         line-height: 4.5rem;
+        color: white;
     }
 
     .subTitle {
@@ -449,6 +450,7 @@ section {
     .mainTitle {
         font-size: 5rem;
         line-height: 6rem;
+        color: white;
     }
 
     .subTitle {
@@ -479,6 +481,7 @@ section {
     .mainTitle {
         font-size: 7rem;
         line-height: 8rem;
+        color: white;
     }
 
     .subTitle {
