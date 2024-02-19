@@ -70,9 +70,21 @@ footer {
 
 
 #mainNav button {
+    margin-left: 250px;
     border-color: var(--kls-highlight-color);
 }
 
+@media (min-width: 576px) {
+    #mainNav button {
+        margin-left: 500px;
+    }
+}
+
+@media (min-width: 768px) {
+    #mainNav button {
+        margin-left: 700px;
+    }
+}
 
 .navbar-toggler {
     color: var(--kls-nav-toggler-glow);
