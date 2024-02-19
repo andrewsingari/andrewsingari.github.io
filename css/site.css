@@ -284,6 +284,7 @@ h1,
     font-family: var(--kls-title-font);
     font-size: 3rem;
     line-height: 3.2rem;
+    margin-left: 118px;
     color: black;
 }
 
