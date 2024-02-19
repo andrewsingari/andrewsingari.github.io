@@ -293,7 +293,6 @@ h1,
 }
 
 .subTitle {
-    font-family: var(--kls-subtitle-font);
     font-size: 1.2rem;
     line-height: 1.2rem;
     margin-left: 22px;
